@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56109b0d-971e-4b59-867c-7e7a48b33f2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mCp4OFx1jFLvQoDANk23tnPnzF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.21987121" />
+  </component>
+  <component name="RunManager" selected="Application.MadHamlet">
+    <configuration name="MadHamlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab2.MadHamlet" />
+      <module name="ps2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MadHello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab2.MadHello" />
+      <module name="ps2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MadLibTest.testTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ps2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab2" />
+      <option name="MAIN_CLASS_NAME" value="lab2.MadLibTest" />
+      <option name="METHOD_NAME" value="testTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MadHamlet" />
+        <item itemvalue="Application.MadHello" />
+        <item itemvalue="JUnit.MadLibTest.testTitle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56109b0d-971e-4b59-867c-7e7a48b33f2c" name="Default Changelist" comment="" />
+      <created>1609007236719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609007236719</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3740" y="250" key="#com.intellij.ide.util.MemberChooser" timestamp="1609015261678">
+      <screen x="1536" y="-33" width="3440" height="1341" />
+    </state>
+    <state x="3740" y="250" key="#com.intellij.ide.util.MemberChooser/1536.-33.3440.1341/0.25.1536.935@1536.-33.3440.1341" timestamp="1609015261678" />
+    <state width="1424" height="344" key="GridCell.Tab.0.bottom" timestamp="1609047703250">
+      <screen x="1536" y="-33" width="3440" height="1415" />
+    </state>
+    <state width="1424" height="344" key="GridCell.Tab.0.bottom/1536.-33.3440.1341/0.25.1536.935@1536.-33.3440.1341" timestamp="1609019589936" />
+    <state width="1424" height="344" key="GridCell.Tab.0.bottom/1536.-33.3440.1415/0.25.1536.861@1536.-33.3440.1415" timestamp="1609047703250" />
+    <state width="1424" height="344" key="GridCell.Tab.0.center" timestamp="1609047703250">
+      <screen x="1536" y="-33" width="3440" height="1415" />
+    </state>
+    <state width="1424" height="344" key="GridCell.Tab.0.center/1536.-33.3440.1341/0.25.1536.935@1536.-33.3440.1341" timestamp="1609019589935" />
+    <state width="1424" height="344" key="GridCell.Tab.0.center/1536.-33.3440.1415/0.25.1536.861@1536.-33.3440.1415" timestamp="1609047703250" />
+    <state width="1424" height="344" key="GridCell.Tab.0.left" timestamp="1609047703250">
+      <screen x="1536" y="-33" width="3440" height="1415" />
+    </state>
+    <state width="1424" height="344" key="GridCell.Tab.0.left/1536.-33.3440.1341/0.25.1536.935@1536.-33.3440.1341" timestamp="1609019589935" />
+    <state width="1424" height="344" key="GridCell.Tab.0.left/1536.-33.3440.1415/0.25.1536.861@1536.-33.3440.1415" timestamp="1609047703250" />
+    <state width="1424" height="344" key="GridCell.Tab.0.right" timestamp="1609047703250">
+      <screen x="1536" y="-33" width="3440" height="1415" />
+    </state>
+    <state width="1424" height="344" key="GridCell.Tab.0.right/1536.-33.3440.1341/0.25.1536.935@1536.-33.3440.1341" timestamp="1609019589936" />
+    <state width="1424" height="344" key="GridCell.Tab.0.right/1536.-33.3440.1415/0.25.1536.861@1536.-33.3440.1415" timestamp="1609047703250" />
+    <state x="3506" y="273" key="NewModule_or_Project.wizard" timestamp="1609007776735">
+      <screen x="1536" y="-33" width="3440" height="1341" />
+    </state>
+    <state x="3506" y="273" key="NewModule_or_Project.wizard/1536.-33.3440.1341/0.25.1536.935@1536.-33.3440.1341" timestamp="1609007776735" />
+    <state x="3262" y="115" key="SettingsEditor" timestamp="1609032067142">
+      <screen x="1536" y="-33" width="3440" height="1415" />
+    </state>
+    <state x="3262" y="107" key="SettingsEditor/1536.-33.3440.1341/0.25.1536.935@1536.-33.3440.1341" timestamp="1609012010216" />
+    <state x="3262" y="115" key="SettingsEditor/1536.-33.3440.1415/0.25.1536.861@1536.-33.3440.1415" timestamp="1609032067142" />
+    <state x="3556" y="510" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1609008313456">
+      <screen x="1536" y="-33" width="3440" height="1341" />
+    </state>
+    <state x="3556" y="510" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1536.-33.3440.1341/0.25.1536.935@1536.-33.3440.1341" timestamp="1609008313456" />
+    <state x="3577" y="159" width="1357" height="1234" key="dock-window-1" timestamp="1609017888636">
+      <screen x="1536" y="-33" width="3440" height="1341" />
+    </state>
+    <state x="3577" y="159" width="1357" height="1234" key="dock-window-1/1536.-33.3440.1341/0.25.1536.935@1536.-33.3440.1341" timestamp="1609017888636" />
+    <state x="2114" y="36" width="1216" height="1206" key="dock-window-2" timestamp="1609046872005">
+      <screen x="1536" y="-33" width="3440" height="1415" />
+    </state>
+    <state x="2080" y="40" width="1216" height="1206" key="dock-window-2/1536.-33.3440.1341/0.25.1536.935@1536.-33.3440.1341" timestamp="1609021553047" />
+    <state x="2114" y="36" width="1216" height="1206" key="dock-window-2/1536.-33.3440.1415/0.25.1536.861@1536.-33.3440.1415" timestamp="1609046872005" />
+    <state x="3180" y="164" key="new project wizard" timestamp="1609008067633">
+      <screen x="1536" y="-33" width="3440" height="1341" />
+    </state>
+    <state x="3180" y="164" key="new project wizard/1536.-33.3440.1341/0.25.1536.935@1536.-33.3440.1341" timestamp="1609008067633" />
+    <state x="3699" y="505" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1609016633127">
+      <screen x="1536" y="-33" width="3440" height="1341" />
+    </state>
+    <state x="3699" y="505" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1536.-33.3440.1341/0.25.1536.935@1536.-33.3440.1341" timestamp="1609016633127" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lab2/StdStreamUI.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
